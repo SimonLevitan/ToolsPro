@@ -43,6 +43,7 @@ block-damage:
   vanish: true
 # Saves your settings if you exit the server.
 session: true
+
 # Check for a new version of the plugin at server startup
 updater:
   enabled: true
